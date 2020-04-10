@@ -1,0 +1,3 @@
+public enum typeOfhero {
+    TANK,WIZARD,ASSASSIN,ASSIST,WARRIOR,RANGED,PUSH,FARMING
+}
