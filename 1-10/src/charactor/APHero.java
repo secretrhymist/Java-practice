@@ -1,16 +1,16 @@
 package charactor;
 
-public class Hero implements LOL{
+public class APHero extends Hero {
     public String name;
     public float hp;
 
     public int damage;
 
-    public Hero() {
+    public APHero() {
     }
 
     // 增加一个初始化name的构造方法
-    public Hero(String name) {
+    public APHero(String name) {
         this.name = name;
     }
 
